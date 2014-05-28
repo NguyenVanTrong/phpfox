@@ -84,6 +84,10 @@ defined('PHPFOX') or exit('NO DICE!');
 									<a href="#" id="section_poke" onclick="$Core.box('poke.poke', 400, 'user_id={$aUser.user_id}'); return false;">{phrase var='poke.poke' full_name=''}</a>
 								</li>
 							{/if}
+                        <!-- follow module example  add bloack follow follow-->
+                        {module name='follow.follow'}
+                        <!-- end module follow example -->
+
 							{plugin call='profile.template_block_menu_more'}
 							{if (Phpfox::getUserParam('user.can_block_other_members') && isset($aUser.user_group_id) && Phpfox::getUserGroupParam('' . $aUser.user_group_id . '', 'user.can_be_blocked_by_others'))
 								|| (isset($aUser.is_online) && $aUser.is_online && Phpfox::isModule('im') && Phpfox::getParam('im.enable_im_in_footer_bar') && $aUser.is_friend == 1)
