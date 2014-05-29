@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: May 28, 2014, 8:33 am */ ?>
+<?php /* Cached: May 29, 2014, 1:35 am */ ?>
 <?php if (Phpfox ::isModule('follow') && Phpfox ::getService('user.privacy')->hasAccess('' . $this->_aVars['aUser']['user_id'] . '' , 'follow.can_follow' )): ?>
 <?php if (Phpfox ::getService('follow')->checkFollow( ( int ) $this->_aVars['aUser']['user_id'] , Phpfox ::getUserId() )): ?>
         <li>

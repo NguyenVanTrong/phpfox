@@ -1,0 +1,1145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2692157c-c7a7-4827-8ecf-316c0196228f" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpfox.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/follow/include/service/total.class.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/all_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/all_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/location_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/location_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/move_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/move_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/source_code_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/source_code_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/friend_rand_6/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/locale/language_table_d41d8cd98f00b204e9800998ecf8427e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getGlobalPrivacySettings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getNotificationSettings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getProfileSettings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/relations/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_module_add.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.privacy-item.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.privacy-notification.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.privacy-profile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/install_default_template_completed.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/install_default_template_template.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/language_template_default_controller_admincp_phrase_add.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_privacy.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_profile.index2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.browse2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.privacy1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.privacy2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css02b621081263c11924636e84ee1d410c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css0e47abb700db306462465f9724e9acec.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css0ff0c0cc6a7768098de78f5ef60bfb48.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css1109c537bd1d1f37de25bc483e8db7a4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css13a0d579e030e7433d1a7dbf71fab22e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css162b531279a25d9aca2ac4bc1d22ae1b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css2200bbeb33891c57aea331cfeb63eeaf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css32a05cabfdd548595127f66ba5156ece.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3f3998c3c9262057f9bbd31e3abe4810.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3fa966594b6d85cf635882cb884e52a8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css48a4b005aaa1f3229ee49d1d884a6a7e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css4b374716e6a40b66a6bf84dfa288fd1b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5724e28a838bde38d2cb6c12a3625f3f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css59a81cd72276e49ea52f4266a99227c7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5ab46773cf9d7d643f51d509c7194360.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5c3c3df57be2a9ca7eae5256ce919b3b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css6b134ce29b71f6c8c57641faa8948ee1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css6e3ba5deceef35f8fb1e98d25aa3ee69.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css78ab793c559732210ec8020c707b4e6e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css7c4a7c2ce5b825563eff05a9fc71e9f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css811896408a7af701f7106ed43248c4c6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css891505a7805517609c8f0177846bfbd3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css8c5b38ffbc11821826e4130a819b0226.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css93c04aeab964db5b2d948f5f1487431e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css9ef23a686290d7d7fa732e863eca733b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssa8286e9bf14331dacf9df6ee62a5f13b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssab5ea45b4b86119bdd9539410534cd9d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssb4fd770e5979767c42c78742d1ec1ffc.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssb66dabbbb7744f5beaac4f8d7bea38a9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csscebc2a04e9481cb86b1d7c19204794f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csse4ece59496eccf2ce9c399d106b21ca0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssf22ad31561d2c285d9fa58fe79e2d690.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssfa742a986a549e4792ac735dea3cef22.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/friend_rand_6/2.php" afterPath="$PROJECT_DIR$/file/cache/friend_rand_6/2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_error.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_error.html.php_admincp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_template.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_template.html.php_admincp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/all_1.php" afterPath="$PROJECT_DIR$/file/cache/block/all_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_custom.block.foreachcustom.php" afterPath="$PROJECT_DIR$/file/cache/template/block_custom.block.foreachcustom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.form.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.form.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.custom.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.block.custom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step1.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step2.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.controller.register.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.controller.register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/blog_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/blog_template_default_block_share.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/follow/include/service/callback.class.php" afterPath="$PROJECT_DIR$/module/follow/include/service/callback.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_country-child.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_country-child.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_message.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_message.html.php_ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-body.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-body.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumblist.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumblist.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumbmenu.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumbmenu.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-copyright.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-copyright.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-footer.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-footer.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-holdername.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-holdername.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-logo.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-logo.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menu.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menu.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menuaccount.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menuaccount.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menufooter.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menufooter.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menusub.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menusub.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-notification.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-notification.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-member.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-member.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-visitor.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-visitor.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_nebula_block_template-contentclass.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_nebula_block_template-contentclass.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/cron.php" afterPath="$PROJECT_DIR$/file/cache/cron.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/feed_template_default_block_display.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/feed_template_default_block_display.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/file_32.php" afterPath="$PROJECT_DIR$/file/cache/block/file_32.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/follow/include/service/follow.class.php" afterPath="$PROJECT_DIR$/module/follow/include/service/follow.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/follow_template_default_block_follow.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/follow_template_default_block_follow.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_birthday.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_birthday.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_notify.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_breadcrumb.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_breadcrumb.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_error.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_error.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_pager.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_pager.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_search.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_search.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_nebula_template_template.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_nebula_template_template.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/help_template_default_block_popup.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/help_template_default_block_popup.html.php_admincp.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/im_template_default_block_footer.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/im_template_default_block_footer.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/profile/include/component/controller/index.class.php" afterPath="$PROJECT_DIR$/module/profile/include/component/controller/index.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/link_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/link_template_default_block_share.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/location_1.php" afterPath="$PROJECT_DIR$/file/cache/block/location_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/log_template_default_block_login.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/log_template_default_block_login.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/mail_template_default_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/mail_template_default_block_notify.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getProfileMenu.php" afterPath="$PROJECT_DIR$/file/cache/module_masscall_getProfileMenu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/move_1.php" afterPath="$PROJECT_DIR$/file/cache/block/move_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/music_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/music_template_default_block_share.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/notification_template_default_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/notification_template_default_block_notify.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/photo_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/photo_template_default_block_share.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/log/phpfox_error_log_28_05_14_1337baf9fc130c487af6cfef0a4ab800.php" afterPath="$PROJECT_DIR$/file/log/phpfox_error_log_28_05_14_1337baf9fc130c487af6cfef0a4ab800.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/poll_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/poll_template_default_block_share.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/privacy_template_default_block_form.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/privacy_template_default_block_form.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php" afterPath="$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_header.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_header.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_pic.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_pic.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_controller_index.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/profile_template_default_controller_index.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/report_template_default_block_profile.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/report_template_default_block_profile.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/shoutbox_template_default_block_display.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/shoutbox_template_default_block_display.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/track_template_default_block_recent-views.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/track_template_default_block_recent-views.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/user/include/service/user.class.php" afterPath="$PROJECT_DIR$/module/user/include/service/user.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_filter.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_filter.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_register.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_register.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_tooltip.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_tooltip.html.php_ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_welcome.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_welcome.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_browse.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_browse.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_nebula_block_login-header.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_nebula_block_login-header.html.php.php" />
+    </list>
+    <ignored path="phpfox.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php" />
+    </disable_hints>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="phpfox" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="profile.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-3.75" vertical-offset="1245" max-vertical-offset="2265">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="friend.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/friend/include/service/friend.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="142" column="35" selection-start="5327" selection-end="5327" vertical-scroll-proportion="102.02" vertical-offset="7201" max-vertical-offset="11610">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.html.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/friend/template/default/controller/profile.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="-0.18584071" vertical-offset="255" max-vertical-offset="825">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="0" selection-start="796" selection-end="796" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="645">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profile.html.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="0" selection-start="945" selection-end="945" vertical-scroll-proportion="-7.5" vertical-offset="225" max-vertical-offset="915">
+              <folding>
+                <element signature="e#6#202#0" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="follow.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/follow/include/service/follow.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="43" selection-start="2014" selection-end="2022" vertical-scroll-proportion="-16.666666" vertical-offset="485" max-vertical-offset="1050">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="user.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/user/include/service/user.class.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.0" vertical-offset="11865" max-vertical-offset="12345">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/module/profile/template/default/block/header.html.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/component/block/follow.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/component/controller/index.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/component/ajax/ajax.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/template/default/block/follow.html.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/service/callback.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/service/total.class.php" />
+        <option value="$PROJECT_DIR$/module/profile/include/component/controller/index.class.php" />
+        <option value="$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php" />
+        <option value="$PROJECT_DIR$/module/user/include/service/user.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/service/follow.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php" />
+        <option value="$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="22" />
+    <option name="width" value="1260" />
+    <option name="height" value="722" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="user" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="block" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="profile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="friend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="block" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="follow" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2692157c-c7a7-4827-8ecf-316c0196228f" name="Default" comment="" />
+      <created>1401261628610</created>
+      <updated>1401261628610</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="22" y="22" width="1260" height="722" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32924962" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/template/default/controller/profile.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="930">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="24" selection-start="0" selection-end="1316" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="5" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="930">
+          <folding>
+            <element signature="e#6#202#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/service/follow.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="30" selection-start="2054" selection-end="2054" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/user/include/service/user.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/profile/template/default/block/header.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="28" selection-start="3776" selection-end="3776" vertical-scroll-proportion="-5.625" vertical-offset="885" max-vertical-offset="3435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="192" selection-end="192" vertical-scroll-proportion="0.37190083" vertical-offset="0" max-vertical-offset="363" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/template/default/block/follow.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="1082" selection-end="1082" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/profile/include/service/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="34" selection-start="3687" selection-end="3701" vertical-scroll-proportion="0.0" vertical-offset="2085" max-vertical-offset="4185" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/profile/include/component/block/pic.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="29" selection-start="1072" selection-end="1078" vertical-scroll-proportion="0.0" vertical-offset="735" max-vertical-offset="1485" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/component/ajax/ajax.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="38" selection-start="300" selection-end="300" vertical-scroll-proportion="0.22462562" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/profile/template/default/block/pic.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="70" column="0" selection-start="1931" selection-end="1931" vertical-scroll-proportion="0.26020408" vertical-offset="792" max-vertical-offset="1380" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/component/block/follow.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="5" selection-start="106" selection-end="106" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/service/total.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="1" selection-start="398" selection-end="398" vertical-scroll-proportion="0.37437603" vertical-offset="0" max-vertical-offset="601" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/include/service/callback.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="225" column="5" selection-start="7779" selection-end="7779" vertical-scroll-proportion="-4.64" vertical-offset="3113" max-vertical-offset="8085" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/service/callback.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="32" selection-start="959" selection-end="959" vertical-scroll-proportion="0.26622295" vertical-offset="440" max-vertical-offset="1110" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/user/include/service/user.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.0" vertical-offset="11865" max-vertical-offset="12345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/profile/include/component/controller/index.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="238" column="87" selection-start="7457" selection-end="7457" vertical-scroll-proportion="0.5840708" vertical-offset="3210" max-vertical-offset="7920" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="945" selection-end="945" vertical-scroll-proportion="-7.5" vertical-offset="225" max-vertical-offset="915">
+          <folding>
+            <element signature="e#6#202#0" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/service/follow.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="43" selection-start="2014" selection-end="2022" vertical-scroll-proportion="-16.666666" vertical-offset="485" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="796" selection-end="796" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-3.75" vertical-offset="1245" max-vertical-offset="2265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/include/service/friend.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="35" selection-start="5327" selection-end="5327" vertical-scroll-proportion="102.02" vertical-offset="7201" max-vertical-offset="11610">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/template/default/controller/profile.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="-0.18584071" vertical-offset="255" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

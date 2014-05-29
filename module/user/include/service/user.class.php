@@ -782,7 +782,14 @@ class User_Service_User extends Phpfox_Service
 		$aRow['link'] = Phpfox::getLib('url')->makeUrl($aRow['user_name'], array('status_id' => $aRow['status_id']));
 		return $aRow;
 	}
-	
+
+    public function getInfoUser($iUserId){
+        $aUser = $this->database()->select('user_id, user_name, full_name, user_image')
+            ->from(Phpfox::getT('user'))
+            ->where('user_id = '.$iUserId)
+            ->execute('getRows');
+        return $aUser;
+    }
 	/**
 	 * If a call is made to an unknown method attempt to connect
 	 * it to a specific plug-in with the same name thus allowing 

@@ -30,7 +30,7 @@ class Follow_Service_Callback extends Phpfox_Service
         $aMenus[] = array(
             'phrase' => Phpfox::getPhrase('follow.follow'),
             'url' => 'profile.follow',
-            'icon' => 'misc/group.png',
+            'icon' => 'misc/application_view_list.png',
             'total' => Phpfox::getService('follow.total')->getTotalFollow($aUser['user_id'])
         );
         return $aMenus;

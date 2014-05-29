@@ -142,6 +142,13 @@
       'profile.pic' => NULL,
     ),
   ),
+  'friend.profile' => 
+  array (
+    1 => 
+    array (
+      'profile.pic' => NULL,
+    ),
+  ),
   'user.browse' => 
   array (
     1 => 
@@ -437,7 +444,7 @@
       'profile.pic' => NULL,
     ),
   ),
-  'friend.profile' => 
+  'follow.profile' => 
   array (
     1 => 
     array (

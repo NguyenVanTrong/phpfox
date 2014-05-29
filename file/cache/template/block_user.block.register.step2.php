@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: May 28, 2014, 8:32 am */ ?>
+<?php /* Cached: May 28, 2014, 2:17 pm */ ?>
 	<div id="js_register_step2">
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step2_6')) ? eval($sPlugin) : false); ?>
 <?php if (! isset ( $this->_aVars['bIsPosted'] ) && Phpfox ::getParam('user.multi_step_registration_form')): ?>

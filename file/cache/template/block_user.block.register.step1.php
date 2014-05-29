@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: May 28, 2014, 8:32 am */ ?>
+<?php /* Cached: May 28, 2014, 2:17 pm */ ?>
 	<div id="js_register_step1">
 <?php (($sPlugin = Phpfox_Plugin::get('user.template_default_block_register_step1_3')) ? eval($sPlugin) : false); ?>
 <?php if (Phpfox ::getParam('user.split_full_name')): ?>

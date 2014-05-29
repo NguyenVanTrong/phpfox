@@ -3,7 +3,7 @@
   'block_id' => '32',
   'type_id' => '0',
   'ordering' => '3',
-  'm_connection' => 'friend.profile',
+  'm_connection' => 'follow.profile',
   'component' => 'pic',
   'location' => '1',
   'disallow_access' => NULL,

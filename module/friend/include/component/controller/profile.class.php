@@ -92,7 +92,6 @@ class Friend_Component_Controller_Profile extends Phpfox_Component
 		}		
 		
 		list($iCnt, $aFriends) = Phpfox::getService('friend')->get($oFilter->getConditions(), $oFilter->getSort(), $oFilter->getPage(), $iPageSize, true, true, ($this->request()->get('view') ? true : false), ($bMutual === true ? $aUser['user_id'] : null));
-
 		$iCnt = $oFilter->getSearchTotal($iCnt);
 		
 		Phpfox::getLib('pager')->set(array('page' => $iPage, 'size' => $iPageSize, 'count' => $iCnt));		

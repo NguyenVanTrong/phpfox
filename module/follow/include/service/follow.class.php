@@ -44,7 +44,7 @@ class Follow_Service_Follow extends Phpfox_Service
     }
 
     public function get($iUserId){
-        $aUserIdFollows = $this->database()->select('user_id_follow')
+        /*$aUserIdFollows = $this->database()->select('user_id_follow')
             ->from(Phpfox::getT('follow'))
             ->where('user_id = '.$iUserId)
             ->execute('getRows');
@@ -53,7 +53,12 @@ class Follow_Service_Follow extends Phpfox_Service
             foreach ($aRow as $key => $value) {
                 $aResult[] = Phpfox::getService('user')->getInfoUser($value);
             }
-        }
+        }*/
+        $aResult = $this->database()->select("*")
+            ->from(Phpfox::getT('user'),'u')
+            ->leftJoin(Phpfox::getT('follow'),'f','f.user_id = u.user_id')
+            ->where('f.user_id= ' .$iUserId)
+            ->execute('getRows');
         return $aResult;
     }
 }

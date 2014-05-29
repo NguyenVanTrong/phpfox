@@ -20,8 +20,7 @@ class Profile_Component_Controller_Index extends Phpfox_Component
 	 */
 	public function process()
 	{	
-
-		// Dealing with legacy versions
+       	// Dealing with legacy versions
 		if (($sReg2Legacy = $this->request()->get('req2')))
 		{			
 			switch ($sReg2Legacy)
@@ -49,9 +48,8 @@ class Profile_Component_Controller_Index extends Phpfox_Component
 			if (isset($sLegacySend))
 			{
 				header ('HTTP/1.1 301 Moved Permanently');
-				
 				$this->url()->send($this->request()->get('req1'), $sLegacySend);
-			}
+   			}
 		}
 		
 		$mUser = $this->request()->get('req1');
@@ -85,7 +83,6 @@ class Profile_Component_Controller_Index extends Phpfox_Component
 		
 		// If we are unable to find a user lets make sure we return a 404 page not found error		
 		$aRow = Phpfox::getService('user')->get($mUser, false);
-		
 		if ((!isset($aRow['user_id'])) || (isset($aRow['user_id']) && $aRow['profile_page_id']  > 0))
 		{
 			if (empty($aRow['profile_page_id']) && $this->request()->get('req2') !='' && Phpfox::isModule($this->request()->get('req2')))
@@ -239,10 +236,11 @@ class Profile_Component_Controller_Index extends Phpfox_Component
 		
 		if ($bIsSubSection === true)
 		{
-			$this->template()->setUrl(Phpfox::callback($sSection . '.getProfileLink'));
+         	$this->template()->setUrl(Phpfox::callback($sSection . '.getProfileLink'));
 
 			return Phpfox::getLib('module')->setController($sSection . '.profile');			
 		}
+
 		
 		if (!Phpfox::getService('user.privacy')->hasAccess($aRow['user_id'], 'profile.view_profile'))
 		{
