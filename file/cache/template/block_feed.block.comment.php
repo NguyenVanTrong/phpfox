@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: May 29, 2014, 1:29 am */ ?>
+<?php /* Cached: May 29, 2014, 9:20 am */ ?>
 <?php if (isset ( $this->_aVars['sDelayedParam'] )): ?>
 <script type="text/javascript">
 	var bLoadDelayedComments = true;

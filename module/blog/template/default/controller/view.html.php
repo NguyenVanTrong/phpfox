@@ -15,6 +15,7 @@ defined('PHPFOX') or exit('NO DICE!');
 	<div class="item_info">
 		{phrase var='blog.by_user' full_name=$aItem|user:'':'':50:'':'author'}
 	</div>
+    {module name='rate.display'}
 	
 	{if $aItem.is_approved != 1}
 	<div class="message js_moderation_off" id="js_approve_message">

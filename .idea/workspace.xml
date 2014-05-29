@@ -2,88 +2,228 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2692157c-c7a7-4827-8ecf-316c0196228f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/phpfox.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/module/follow/include/service/total.class.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/all_2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/ad_412569432da0605a041181a06c436311.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/ad_c43fbc627446bf066be9d47586bb8ecb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/admincp_note.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/announcement/1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/announcement/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/apps/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/ban_email.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/all_3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/location_2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/location_3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/move_2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/move_3.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/source_code_2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/block/source_code_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/country_child__en.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/csetting/1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/csetting/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/currency/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/custom_field_user_main.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/custom_field_user_panel.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/custom_public_015d2577396b047760d509a1f9dc6c67.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/events/1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/events/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/friend_birthday_1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/friend_birthday_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/friend_rand_6/2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/friend_rand_6/3.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/locale/language_table_d41d8cd98f00b204e9800998ecf8427e.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getGlobalPrivacySettings.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getNotificationSettings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getProfileMenu.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getProfileSettings.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getSiteStatsForAdmins.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_pendingApproval.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/module_masscall_spamCheck.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/pages/1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/pages/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/phpfox_news.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/relations/2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/relations/3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/reluser/2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_block_block_setting.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_block_module_form.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_block_product_form.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_block_add.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_block_index.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_component_add.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_component_index.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_index.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_login.html.php_admincp.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_module_add.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_blank.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_custom.block.foreachcustom.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.custom.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.privacy-item.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.privacy-notification.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.privacy-profile.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/block_user.controller.register.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_active-admin.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_country-child.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_latest-admin-login.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_message.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_note.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_site-stat.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-visitor.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/custom_template_default_block_display.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/feed_template_default_block_display.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/follow_template_default_block_follow.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/follow_template_default_controller_profile.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_accept.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_profile_small.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_remove.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_request.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_controller_profile.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_email.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/help_template_default_block_popup.html.php_admincp.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/install_default_template_completed.html.php.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/install_default_template_template.html.php.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/language_template_default_controller_admincp_phrase_add.html.php_admincp.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/like_template_default_block_display.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/notification_template_default_block_link.html.php_ajax.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_header.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_info.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_pic.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_controller_index.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_controller_info.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/report_template_default_block_profile.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_filter.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_register.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_welcome.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_browse.html.php.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_privacy.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/template/user_template_nebula_block_login-header.html.php.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_core.index-member1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_core.index-visitor0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_explore0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_follow.index1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_footer0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_friend.index1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_main0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_main_right0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_profile.index1.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_profile.index2.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_profile.info1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.browse1.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.browse2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.privacy1.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/menu_user.privacy2.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css02b621081263c11924636e84ee1d410c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css03f574d433dec50e45056ee0a9a4df1c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css07af37f3dcf5640774a4d25cc0b4493b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css0d58bd441081635d8a9f396bacbbfa0a.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css0e47abb700db306462465f9724e9acec.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css0ff0c0cc6a7768098de78f5ef60bfb48.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css1109c537bd1d1f37de25bc483e8db7a4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css1362899421f3815968fc10844acc6bb8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css138c00432e0cad5a5e840a3234b095cb.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css13a0d579e030e7433d1a7dbf71fab22e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css14186086cfdfb63aaa8ed064697f07c4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css15c7b9607b7c7712644128534107d522.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css162b531279a25d9aca2ac4bc1d22ae1b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css1a789451601d0db23b6188c1819c6396.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css1e0cf7e988111ff9ddb23acf60fe102f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css1f363fd47e41adcb8e115403d7b42ea0.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css2200bbeb33891c57aea331cfeb63eeaf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css29446b73551e5f04b024703e84a8b69f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css2a228e73cffe478a74f758c7c9c70206.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css2a27a8006ed2af779626e22c98abd163.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css2fd97c01e807dc3cf18657605d2ecffa.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css32a05cabfdd548595127f66ba5156ece.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css35943780a904723091496f9d95f1afa0.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3736456333b3b4026f8a6551a31301eb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3a7e2347284c3bd7503463de57e10945.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3a946e62d5528fb9aa6500b9a8346c56.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3f3998c3c9262057f9bbd31e3abe4810.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css3fa966594b6d85cf635882cb884e52a8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css40f7b83ae8a54d55f0c5fb1e6e922333.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css4750e3c1634ef410618ca55cdd909ec1.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css48a4b005aaa1f3229ee49d1d884a6a7e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css49d391f8c5a5037e8d4b0f74cce97d06.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css4a8372ea2e630bb2f9bcf188846d319d.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css4b374716e6a40b66a6bf84dfa288fd1b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css4c24e51ac793bb6941b420066bce8c8f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css4db68adc3526c76eb65810aa4d9d11a7.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5317e123ceab710be27f2d7094df06aa.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5724e28a838bde38d2cb6c12a3625f3f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css59729de8e6c1ba38c94f17f8e32c549b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css597d4ca7fd7d957fcea1c8b1c8ba7015.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css59a81cd72276e49ea52f4266a99227c7.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5ab46773cf9d7d643f51d509c7194360.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5c3c3df57be2a9ca7eae5256ce919b3b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css5f32263352302eb18df007432caff00c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css61a019574222be3ddca2befb48a4183f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css647d3df7b75fd399318672e6bec50914.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css6b134ce29b71f6c8c57641faa8948ee1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css6b3ff84b15aa4608f30336cb69076785.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css6e0fdd7ed3bd421afd7284de6dcc83ad.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css6e3ba5deceef35f8fb1e98d25aa3ee69.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css733582c323d7de039af27184026e47bf.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css73c3caf9c4eb46a7977bf94a231a6a34.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css78ab793c559732210ec8020c707b4e6e.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css7c4a7c2ce5b825563eff05a9fc71e9f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css7f287be2c7bd104ce88e40d0ecf50e87.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css811896408a7af701f7106ed43248c4c6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css8740228ebc8e0c68f6238f7e6b09a0e9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css88ca3b9ee2a87710faab42098375f6bd.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css891505a7805517609c8f0177846bfbd3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css89c93a522acce66f6e788481d3be40c0.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css8c5b38ffbc11821826e4130a819b0226.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css8e68c9cc75b24b9cb895063f885d652b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css8fcd5cdb9547585514536efa6478b963.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css919c77dcd432434b1ee6f92d2c5bf100.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css93c04aeab964db5b2d948f5f1487431e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css95cb2bd59ff35cc78356e8e41b498764.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css9685da931ca2e19e18e97bdb7f68a0fd.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css9976ba8167467c7d93812588141461ee.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css9adc45f715013c05dac26afee37e41c1.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css9ef23a686290d7d7fa732e863eca733b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_css9f2ef86e49221914ee2bd6c89010e7ce.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssa2777d9171d403a39d8a261e8d76ddd1.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssa40c80a314b7dcea7c3a0e9e87113d94.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssa8286e9bf14331dacf9df6ee62a5f13b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssa952f0483f9edc165a1afde6caa65911.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssab5ea45b4b86119bdd9539410534cd9d.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssad034d1213837337b331a19d7d665f31.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssad796fa24db99c7dc39b28993d910b6c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssb0a09a83aa455d9f7c33682c26844f7f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssb1fd74afa11e064d2ece415b41897dfd.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssb4fd770e5979767c42c78742d1ec1ffc.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssb66dabbbb7744f5beaac4f8d7bea38a9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssc4aa906a7bafb35d2eebc645f4fa0f72.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssc60d3e860c21ec7e340e8366e6d37f1f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssccc95845af6b2fc0551fcfefc97fcaad.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssce66499e9dcc395c408cbe8b3e1ab21f.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csscebc2a04e9481cb86b1d7c19204794f3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssdc25fe537190effeeea4bc421f32e8ff.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csse1d54d1bc10b4376676d37e5ac7d4ca8.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csse47c59add3dda8f01ce594f37a65a09e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csse499d6e75729da4960da363360e1b566.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_csse4ece59496eccf2ce9c399d106b21ca0.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssf22ad31561d2c285d9fa58fe79e2d690.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssf5b714914d2f03f3378bf62ae25cdc0e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssf6b379446de2cc40c1b759b3e6906007.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssf85d7d0ce0837ff07ca0ecd48b867007.php" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/theme/theme_cssfa742a986a549e4792ac735dea3cef22.php" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/friend_rand_6/2.php" afterPath="$PROJECT_DIR$/file/cache/friend_rand_6/2.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/user/nbselectname_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/user/user_welcome_image.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/user_group_setting_3.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/user_group_setting_4.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/cache/user_group_setting_5.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_maintain_cache.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/admincp_template_default_controller_maintain_cache.html.php_admincp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_error.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_error.html.php_admincp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_template.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/adminpanel_default_template_template.html.php_admincp.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/all_1.php" afterPath="$PROJECT_DIR$/file/cache/block/all_1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_custom.block.foreachcustom.php" afterPath="$PROJECT_DIR$/file/cache/template/block_custom.block.foreachcustom.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/all_2.php" afterPath="$PROJECT_DIR$/file/cache/block/all_2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.comment.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.comment.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.content.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.entry.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.entry.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.form.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.form.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.custom.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.block.custom.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step1.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step1.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step2.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.block.register.step2.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_user.controller.register.php" afterPath="$PROJECT_DIR$/file/cache/template/block_user.controller.register.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_feed.block.link.php" afterPath="$PROJECT_DIR$/file/cache/template/block_feed.block.link.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/block_like.block.display.php" afterPath="$PROJECT_DIR$/file/cache/template/block_like.block.display.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/blog/include/service/blog.class.php" afterPath="$PROJECT_DIR$/module/blog/include/service/blog.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/blog_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/blog_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/follow/include/service/callback.class.php" afterPath="$PROJECT_DIR$/module/follow/include/service/callback.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_country-child.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_country-child.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_message.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_message.html.php_ajax.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/blog/include/service/callback.class.php" afterPath="$PROJECT_DIR$/module/blog/include/service/callback.class.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-body.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-body.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumblist.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumblist.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumbmenu.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-breadcrumbmenu.html.php.php" />
@@ -97,13 +237,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menusub.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-menusub.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-notification.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_block_template-notification.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-member.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-member.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-visitor.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_default_controller_index-visitor.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/core_template_nebula_block_template-contentclass.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/core_template_nebula_block_template-contentclass.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/cron.php" afterPath="$PROJECT_DIR$/file/cache/cron.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/feed_template_default_block_display.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/feed_template_default_block_display.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/file_32.php" afterPath="$PROJECT_DIR$/file/cache/block/file_32.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/follow/include/service/follow.class.php" afterPath="$PROJECT_DIR$/module/follow/include/service/follow.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/follow_template_default_block_follow.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/follow_template_default_block_follow.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_birthday.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_birthday.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_mini.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/friend_template_default_block_notify.html.php.php" />
@@ -112,35 +248,27 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_pager.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_pager.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_default_template_search.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_default_template_search.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/frontend_nebula_template_template.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/frontend_nebula_template_template.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/help_template_default_block_popup.html.php_admincp.php" afterPath="$PROJECT_DIR$/file/cache/template/help_template_default_block_popup.html.php_admincp.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/im_template_default_block_footer.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/im_template_default_block_footer.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/profile/include/component/controller/index.class.php" afterPath="$PROJECT_DIR$/module/profile/include/component/controller/index.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/locale/language_en_phrase_blog.php" afterPath="$PROJECT_DIR$/file/cache/locale/language_en_phrase_blog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/like_template_default_block_link.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/like_template_default_block_link.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/link_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/link_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/location_1.php" afterPath="$PROJECT_DIR$/file/cache/block/location_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/location_2.php" afterPath="$PROJECT_DIR$/file/cache/block/location_2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/log_template_default_block_login.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/log_template_default_block_login.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/mail_template_default_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/mail_template_default_block_notify.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/module_masscall_getProfileMenu.php" afterPath="$PROJECT_DIR$/file/cache/module_masscall_getProfileMenu.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/move_1.php" afterPath="$PROJECT_DIR$/file/cache/block/move_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/block/move_2.php" afterPath="$PROJECT_DIR$/file/cache/block/move_2.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/music_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/music_template_default_block_share.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/notification_template_default_block_notify.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/notification_template_default_block_notify.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/photo_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/photo_template_default_block_share.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/log/phpfox_error_log_28_05_14_1337baf9fc130c487af6cfef0a4ab800.php" afterPath="$PROJECT_DIR$/file/log/phpfox_error_log_28_05_14_1337baf9fc130c487af6cfef0a4ab800.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/poll_template_default_block_share.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/poll_template_default_block_share.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/privacy_template_default_block_form.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/privacy_template_default_block_form.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php" afterPath="$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_header.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_header.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_pic.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/profile_template_default_block_pic.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/profile_template_default_controller_index.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/profile_template_default_controller_index.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/report_template_default_block_profile.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/report_template_default_block_profile.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/rate_template_default_block_display.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/rate_template_default_block_display.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/share_template_default_block_link.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/share_template_default_block_link.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/shoutbox_template_default_block_display.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/shoutbox_template_default_block_display.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/track_template_default_block_recent-views.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/track_template_default_block_recent-views.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/user/include/service/user.class.php" afterPath="$PROJECT_DIR$/module/user/include/service/user.class.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_filter.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_filter.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_register.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_register.html.php.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_tooltip.html.php_ajax.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_tooltip.html.php_ajax.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_block_welcome.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_block_welcome.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_browse.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_default_controller_browse.html.php.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/cache/template/user_template_nebula_block_login-header.html.php.php" afterPath="$PROJECT_DIR$/file/cache/template/user_template_nebula_block_login-header.html.php.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/blog/include/component/controller/view.class.php" afterPath="$PROJECT_DIR$/module/blog/include/component/controller/view.class.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/module/blog/template/default/controller/view.html.php" afterPath="$PROJECT_DIR$/module/blog/template/default/controller/view.html.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="phpfox.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -165,68 +293,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="profile.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
+      <file leaf-file-name="view.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/blog/include/component/controller/view.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-3.75" vertical-offset="1245" max-vertical-offset="2265">
+            <state line="212" column="22" selection-start="7788" selection-end="7788" vertical-scroll-proportion="-2.24" vertical-offset="3038" max-vertical-offset="4995">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="friend.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/friend/include/service/friend.class.php">
+      <file leaf-file-name="view.html.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/blog/template/default/controller/view.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="142" column="35" selection-start="5327" selection-end="5327" vertical-scroll-proportion="102.02" vertical-offset="7201" max-vertical-offset="11610">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.html.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/module/friend/template/default/controller/profile.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="-0.18584071" vertical-offset="255" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="796" selection-end="796" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="645">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="profile.html.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="0" selection-start="945" selection-end="945" vertical-scroll-proportion="-7.5" vertical-offset="225" max-vertical-offset="915">
+            <state line="17" column="32" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.1" vertical-offset="0" max-vertical-offset="825">
               <folding>
-                <element signature="e#6#202#0" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+                <element signature="e#7#199#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="follow.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/follow/include/service/follow.class.php">
+      <file leaf-file-name="callback.class.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/module/blog/include/service/callback.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="43" selection-start="2014" selection-end="2022" vertical-scroll-proportion="-16.666666" vertical-offset="485" max-vertical-offset="1050">
+            <state line="35" column="39" selection-start="636" selection-end="636" vertical-scroll-proportion="-13.25" vertical-offset="177" max-vertical-offset="21690">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="user.class.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/module/user/include/service/user.class.php">
+      <file leaf-file-name="blog.class.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/module/blog/include/service/blog.class.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.0" vertical-offset="11865" max-vertical-offset="12345">
+            <state line="96" column="0" selection-start="3294" selection-end="3294" vertical-scroll-proportion="0.19928825" vertical-offset="1298" max-vertical-offset="5145">
               <folding />
             </state>
           </provider>
@@ -258,12 +357,16 @@
         <option value="$PROJECT_DIR$/module/follow/include/service/follow.class.php" />
         <option value="$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php" />
         <option value="$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php" />
+        <option value="$PROJECT_DIR$/module/blog/template/default/controller/view.html.php" />
+        <option value="$PROJECT_DIR$/module/blog/include/service/callback.class.php" />
+        <option value="$PROJECT_DIR$/module/blog/include/component/controller/view.class.php" />
+        <option value="$PROJECT_DIR$/module/blog/include/service/blog.class.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="22" />
+    <option name="x" value="15" />
     <option name="y" value="22" />
     <option name="width" value="1260" />
     <option name="height" value="722" />
@@ -294,7 +397,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -891,8 +993,187 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="template" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="default" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phpfox" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="module" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="component" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -941,7 +1222,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="22" y="22" width="1260" height="722" extended-state="0" />
+    <frame x="15" y="22" width="1260" height="722" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -978,9 +1259,60 @@
     </option>
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2295">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/include/service/friend.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="142" column="35" selection-start="5327" selection-end="5327" vertical-scroll-proportion="0.0" vertical-offset="2130" max-vertical-offset="11640">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/template/default/controller/profile.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="796" selection-end="796" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="0" selection-start="945" selection-end="945" vertical-scroll-proportion="0.0" vertical-offset="405" max-vertical-offset="915">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/follow/include/service/follow.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="43" selection-start="2014" selection-end="2022" vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="1050">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/user/include/service/user.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.0" vertical-offset="11865" max-vertical-offset="12345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="0.0" vertical-offset="1365" max-vertical-offset="2295">
@@ -1005,11 +1337,7 @@
     <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="56" column="5" selection-start="1840" selection-end="1840" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="930">
-          <folding>
-            <element signature="e#6#202#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1084,7 +1412,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/user/include/service/user.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.0" vertical-offset="11865" max-vertical-offset="12345">
+        <state line="791" column="5" selection-start="22256" selection-end="22256" vertical-scroll-proportion="0.18367347" vertical-offset="11757" max-vertical-offset="12345">
           <folding />
         </state>
       </provider>
@@ -1096,46 +1424,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/module/follow/template/default/controller/profile.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="945" selection-end="945" vertical-scroll-proportion="-7.5" vertical-offset="225" max-vertical-offset="915">
-          <folding>
-            <element signature="e#6#202#0" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+        <state line="27" column="0" selection-start="945" selection-end="945" vertical-scroll-proportion="0.13265306" vertical-offset="327" max-vertical-offset="915">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/follow/include/service/follow.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="43" selection-start="2014" selection-end="2022" vertical-scroll-proportion="-16.666666" vertical-offset="485" max-vertical-offset="1050">
+        <state line="59" column="43" selection-start="2014" selection-end="2022" vertical-scroll-proportion="0.71938777" vertical-offset="462" max-vertical-offset="1050">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/follow/include/component/controller/profile.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="796" selection-end="796" vertical-scroll-proportion="-11.875" vertical-offset="0" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-3.75" vertical-offset="1245" max-vertical-offset="2265">
+        <state line="19" column="0" selection-start="796" selection-end="796" vertical-scroll-proportion="0.3877551" vertical-offset="57" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/friend/include/service/friend.class.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="142" column="35" selection-start="5327" selection-end="5327" vertical-scroll-proportion="102.02" vertical-offset="7201" max-vertical-offset="11610">
+        <state line="142" column="35" selection-start="5327" selection-end="5327" vertical-scroll-proportion="0.0" vertical-offset="2130" max-vertical-offset="11640">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/module/friend/template/default/controller/profile.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="-0.18584071" vertical-offset="255" max-vertical-offset="825">
+        <state line="17" column="57" selection-start="565" selection-end="565" vertical-scroll-proportion="0.25510204" vertical-offset="0" max-vertical-offset="825">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/friend/include/component/controller/profile.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="16" selection-start="2897" selection-end="2897" vertical-scroll-proportion="-0.053097345" vertical-offset="1365" max-vertical-offset="2265">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/blog/include/component/controller/view.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="22" selection-start="7788" selection-end="7788" vertical-scroll-proportion="-2.24" vertical-offset="3038" max-vertical-offset="4995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/blog/template/default/controller/view.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="32" selection-start="408" selection-end="408" vertical-scroll-proportion="-5.1" vertical-offset="0" max-vertical-offset="825">
+          <folding>
+            <element signature="e#7#199#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/blog/include/service/callback.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="39" selection-start="636" selection-end="636" vertical-scroll-proportion="-13.25" vertical-offset="177" max-vertical-offset="21690">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/module/blog/include/service/blog.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="3294" selection-end="3294" vertical-scroll-proportion="0.19928825" vertical-offset="1298" max-vertical-offset="5145">
           <folding />
         </state>
       </provider>

@@ -76,6 +76,10 @@
   array (
     'profile.pic' => false,
   ),
+  'friend.profile' => 
+  array (
+    'profile.pic' => false,
+  ),
   'user.browse' => 
   array (
     'user.filter' => false,
@@ -235,7 +239,7 @@
     'track.recent-views' => false,
     'profile.pic' => false,
   ),
-  'friend.profile' => 
+  'follow.profile' => 
   array (
     'profile.pic' => false,
   ),

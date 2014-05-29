@@ -1,5 +1,5 @@
 <?php defined('PHPFOX') or exit('NO DICE!'); ?>
-<?php /* Cached: May 29, 2014, 1:29 am */ ?>
+<?php /* Cached: May 29, 2014, 9:30 am */ ?>
 <?php if (PHPFOX_IS_AJAX && Phpfox ::getLib('request')->get('theater') == 'true'): ?>
 
 

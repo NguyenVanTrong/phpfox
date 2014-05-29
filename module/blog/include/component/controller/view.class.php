@@ -19,7 +19,7 @@ class Blog_Component_Controller_View extends Phpfox_Component
 	 * Class process method wnich is used to execute this component.
 	 */
 	public function process()
-	{		
+	{
 		if ($this->request()->getInt('id'))
 		{
 			return Phpfox::getLib('module')->setController('error.404');
@@ -44,8 +44,9 @@ class Blog_Component_Controller_View extends Phpfox_Component
 				)
 			);
 		}
-	
+        
 		$aItem = Phpfox::getService('blog')->getBlog($this->request()->getInt('req2'));
+
 
 		if ( (!isset($aItem['blog_id'])) || 
 			(isset($aItem['module_id']) && Phpfox::isModule($aItem['module_id']) != true))
@@ -197,7 +198,73 @@ class Blog_Component_Controller_View extends Phpfox_Component
 			$this->setParam('sTagListParentModule', $aItem['module_id']);
 			$this->setParam('iTagListParentId', (int) $aItem['item_id']);
 		}
-		
+        if (Phpfox::isModule('rate'))
+
+        {
+
+            $this->setParam('aItem', $aItem);
+
+            $this->setParam('sGroup', ($this->request()->get('req1') == 'group') ? $this->request()->get('req2') : '');
+
+            $this->setParam('aRatingCallback', array(
+
+                    'type' => 'blog',
+
+                    'total_rating' => Phpfox::getPhrase('blog.total_rating_ratings', array('total_rating' => $aItem['total_rating'])),
+
+                    'default_rating' => $aItem['total_score'],
+
+                    'item_id' => $aItem['blog_id'],
+
+                    'stars' => array(
+
+                        '2' => Phpfox::getPhrase('blog.poor'),
+
+                        '4' => Phpfox::getPhrase('blog.nothing_special'),
+
+                        '6' => Phpfox::getPhrase('blog.worth_watching'),
+
+                        '8' => Phpfox::getPhrase('blog.pretty_cool'),
+
+                        '10' => Phpfox::getPhrase('blog.awesome')
+
+                    )
+
+                )
+
+            );
+
+
+
+
+
+            $this->template()->setPhrase(array(
+
+                    'rate.thanks_for_rating'
+
+                )
+
+            );
+
+
+
+            $this->template()->setHeader(array(
+
+                    'jquery/plugin/star/jquery.rating.js' => 'static_script',
+
+                    'jquery.rating.css' => 'style_css',
+
+                    'rate.js' => 'module_rate',
+
+                    '<script type="text/javascript">$Behavior.rateBlog = function() { $Core.rate.init({module: \'blog\', display: ' . ($aItem['has_rated'] ? 'false' : ($aItem['user_id'] == Phpfox::getUserId() ? 'false' : 'true')) . ', error_message: \'' . ($aItem['has_rated'] ? Phpfox::getPhrase('blog.you_have_already_voted', array('phpfox_squote' => true)) : Phpfox::getPhrase('blog.you_cannot_rate_your_own_blog', array('phpfox_squote' => true))) . '\'}); }</script>'
+
+                )
+
+            );
+
+        }
+
+//
 		$this->template()->setTitle($aItem['title'])
 		 	->setBreadCrumb(Phpfox::getPhrase('blog.blogs_title'), $sBreadcrumb)			
 		 	->setBreadCrumb($aItem['title'], $this->url()->permalink('blog', $aItem['blog_id'], $aItem['title']), true)

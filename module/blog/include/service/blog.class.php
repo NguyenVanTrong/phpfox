@@ -61,7 +61,7 @@ class Blog_Service_Blog extends Phpfox_Service
 	public function getBlogForEdit($iId)
 	{
 		(($sPlugin = Phpfox_Plugin::get('blog.component_service_blog_getblogsforedit__start')) ? eval($sPlugin) : false);
-		
+
 		return $this->database()->select("blog.*, blog_text.text AS text, u.user_name")
 			->from($this->_sTable, 'blog')
 			->join(Phpfox::getT('blog_text'), 'blog_text', 'blog_text.blog_id = blog.blog_id')
@@ -89,7 +89,12 @@ class Blog_Service_Blog extends Phpfox_Service
 		{
 			$this->database()->select('l.like_id AS is_liked, ')->leftJoin(Phpfox::getT('like'), 'l', 'l.type_id = \'blog\' AND l.item_id = blog.blog_id AND l.user_id = ' . Phpfox::getUserId());
 		}
-		
+        if (Phpfox::isModule('rate'))
+        {
+            $this->database()->select('br.rate_id AS has_rated, ')->leftJoin(Phpfox::getT('blog_rating'), 'br', 'br.item_id =  blog.blog_id AND br.user_id = ' . Phpfox::getUserId());
+
+        }
+
 		$aRow = $this->database()->select("blog.*, " . (Phpfox::getParam('core.allow_html') ? "blog_text.text_parsed" : "blog_text.text") ." AS text, " . Phpfox::getUserField())
 			->from($this->_sTable, 'blog')
 			->join(Phpfox::getT('blog_text'), 'blog_text', 'blog_text.blog_id = blog.blog_id')

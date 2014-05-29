@@ -31,9 +31,24 @@ class Blog_Service_Callback extends Phpfox_Service
 				'table_prefix' => 'blog_',
 				'item_id' => $iItemId
 		);
-	}	
+	}
 
-	public function getSiteStatsForAdmin($iStartTime, $iEndTime)
+    public function getRatingData($iId)
+    {
+
+        return array(
+
+            'field' => 'blog_id',
+
+            'table' => 'blog',
+
+            'table_rating' => 'blog_rating'
+
+        );
+
+    }
+
+    public function getSiteStatsForAdmin($iStartTime, $iEndTime)
 	{
 		$aCond = array();
 		$aCond[] = 'is_approved = 1 AND post_status = 1';
